@@ -48,7 +48,7 @@
 	opacity: 1;
 }
 .da-slide h2{
-	color:#FFFFFF;
+	/*color:#FFFFFF;*/
 	width: 77%;
 	top:0px;
 	white-space: nowrap;
@@ -62,7 +62,7 @@
 }
 .da-slide p{
 	top:110px;
-	color: #FFFFFF;
+	/*color: #FFFFFF;*/
 	font-size: 1.4em;
 	height: 80px;
 	overflow: hidden;
@@ -88,7 +88,7 @@
 	top:175px; /*depends on p height*/
 	font-family: 'Open Sans', sans-serif;
 	display:inline-block;
-	color:#ffffff;
+	/*color:#ffffff;*/
 	font-size:1em;
 	font-weight:600;
 	text-decoration:none;
