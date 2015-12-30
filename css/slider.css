@@ -35,6 +35,7 @@
 .da-slide .da-img{
 	position: absolute;
 	opacity: 0;
+	color: #ffffff;
 	left: 110%;
 }
 .da-slider-fb .da-slide h2,
